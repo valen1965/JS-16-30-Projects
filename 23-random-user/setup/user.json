@@ -1,0 +1,291 @@
+{
+    "results": [
+    {
+    "gender": "female",
+    "name": {
+    "title": "Mrs",
+    "first": "Dawn",
+    "last": "Gonzalez"
+    },
+    "location": {
+    "street": {
+    "number": 6054,
+    "name": "Oak Ridge Ln"
+    },
+    "city": "Rochester",
+    "state": "South Dakota",
+    "country": "United States",
+    "postcode": 64034,
+    "coordinates": {
+    "latitude": "83.1637",
+    "longitude": "50.5471"
+    },
+    "timezone": {
+    "offset": "+6:00",
+    "description": "Almaty, Dhaka, Colombo"
+    }
+    },
+    "email": "dawn.gonzalez@example.com",
+    "login": {
+    "uuid": "356c99bc-95dd-4f16-ad1c-2b48e265b2e0",
+    "username": "silverdog723",
+    "password": "bart",
+    "salt": "u2Z9ex52",
+    "md5": "6f52bdf8d267e439f26779c061a312ca",
+    "sha1": "a971df004c5fc863daf52e671bfd15cdba264b07",
+    "sha256": "772d8bbdda3657092a4d2017930a2f6304e1a928c37382618ec8e80962bb19aa"
+    },
+    "dob": {
+    "date": "1958-11-19T22:02:17.527Z",
+    "age": 63
+    },
+    "registered": {
+    "date": "2013-01-20T23:35:33.519Z",
+    "age": 9
+    },
+    "phone": "(343) 718-0887",
+    "cell": "(945) 239-0867",
+    "id": {
+    "name": "SSN",
+    "value": "158-46-8662"
+    },
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/women/86.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/86.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/86.jpg"
+    },
+    "nat": "US"
+    },
+    {
+    "gender": "female",
+    "name": {
+    "title": "Ms",
+    "first": "Phyllis",
+    "last": "Warren"
+    },
+    "location": {
+    "street": {
+    "number": 3910,
+    "name": "Smokey Ln"
+    },
+    "city": "Modesto",
+    "state": "Florida",
+    "country": "United States",
+    "postcode": 96048,
+    "coordinates": {
+    "latitude": "61.3715",
+    "longitude": "122.6863"
+    },
+    "timezone": {
+    "offset": "0:00",
+    "description": "Western Europe Time, London, Lisbon, Casablanca"
+    }
+    },
+    "email": "phyllis.warren@example.com",
+    "login": {
+    "uuid": "bf7805f0-dac2-48d7-adab-3fcceb76c92f",
+    "username": "heavyduck668",
+    "password": "greece",
+    "salt": "Z68lfxY8",
+    "md5": "830017eaec62158f4e8a2fc2393463f4",
+    "sha1": "c369fd41df6064f330335c2a96393d06c1d7c415",
+    "sha256": "74a291afc020eb40087b5b23403328873bc8726ffad2443591628a6e4477c739"
+    },
+    "dob": {
+    "date": "1946-01-25T15:08:33.276Z",
+    "age": 76
+    },
+    "registered": {
+    "date": "2017-05-27T13:10:28.813Z",
+    "age": 5
+    },
+    "phone": "(449) 866-0541",
+    "cell": "(681) 316-7548",
+    "id": {
+    "name": "SSN",
+    "value": "611-95-5952"
+    },
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/women/48.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/48.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/48.jpg"
+    },
+    "nat": "US"
+    },
+    {
+    "gender": "female",
+    "name": {
+    "title": "Miss",
+    "first": "Ella",
+    "last": "Garza"
+    },
+    "location": {
+    "street": {
+    "number": 694,
+    "name": "Station Road"
+    },
+    "city": "Gloucester",
+    "state": "County Tyrone",
+    "country": "United Kingdom",
+    "postcode": "AK7L 5HW",
+    "coordinates": {
+    "latitude": "59.9370",
+    "longitude": "151.9168"
+    },
+    "timezone": {
+    "offset": "+6:00",
+    "description": "Almaty, Dhaka, Colombo"
+    }
+    },
+    "email": "ella.garza@example.com",
+    "login": {
+    "uuid": "f316cf67-3a0c-4857-ac9a-08618d223ac9",
+    "username": "whiteduck514",
+    "password": "saturday",
+    "salt": "unKBTKkF",
+    "md5": "79c84f47ae4a256c923757457393c1bd",
+    "sha1": "23d56325be1a9bcef21dc93cf5ab87aa3616ff06",
+    "sha256": "a9d09b72f3d96118e9646158e71796100f8bbc1e98f51bce4fae1b89608a28dc"
+    },
+    "dob": {
+    "date": "1989-06-01T21:58:41.334Z",
+    "age": 33
+    },
+    "registered": {
+    "date": "2004-06-25T01:19:46.020Z",
+    "age": 18
+    },
+    "phone": "0101 927 8507",
+    "cell": "07092 661912",
+    "id": {
+    "name": "NINO",
+    "value": "WL 58 67 80 A"
+    },
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/women/94.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/94.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/94.jpg"
+    },
+    "nat": "GB"
+    },
+    {
+    "gender": "female",
+    "name": {
+    "title": "Mrs",
+    "first": "Neea",
+    "last": "Kurtti"
+    },
+    "location": {
+    "street": {
+    "number": 2495,
+    "name": "Hermiankatu"
+    },
+    "city": "Evijärvi",
+    "state": "Åland",
+    "country": "Finland",
+    "postcode": 34637,
+    "coordinates": {
+    "latitude": "-10.8183",
+    "longitude": "119.4606"
+    },
+    "timezone": {
+    "offset": "+4:00",
+    "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+    }
+    },
+    "email": "neea.kurtti@example.com",
+    "login": {
+    "uuid": "923e98f8-37f5-441c-9c53-55397b928ce3",
+    "username": "lazypeacock438",
+    "password": "daisy1",
+    "salt": "FdjjJVzm",
+    "md5": "f84133df1d270a4a29c0de25a7b3762a",
+    "sha1": "c3c344ac456acd80a9a87f4c13554f3d0f11b647",
+    "sha256": "573969324747849270c55748a5c5a3db0ae756064ee25555b633616682d3cec7"
+    },
+    "dob": {
+    "date": "1969-07-15T13:33:28.331Z",
+    "age": 53
+    },
+    "registered": {
+    "date": "2004-05-30T11:29:36.591Z",
+    "age": 18
+    },
+    "phone": "03-732-505",
+    "cell": "044-132-44-73",
+    "id": {
+    "name": "HETU",
+    "value": "NaNNA072undefined"
+    },
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/women/71.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/71.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/71.jpg"
+    },
+    "nat": "FI"
+    },
+    {
+    "gender": "male",
+    "name": {
+    "title": "Mr",
+    "first": "Côme",
+    "last": "Leclercq"
+    },
+    "location": {
+    "street": {
+    "number": 3941,
+    "name": "Place des 44 Enfants D'Izieu"
+    },
+    "city": "Champigny-sur-Marne",
+    "state": "Haute-Vienne",
+    "country": "France",
+    "postcode": 69378,
+    "coordinates": {
+    "latitude": "-7.0055",
+    "longitude": "103.9542"
+    },
+    "timezone": {
+    "offset": "+4:30",
+    "description": "Kabul"
+    }
+    },
+    "email": "come.leclercq@example.com",
+    "login": {
+    "uuid": "1fe496e2-de59-4afc-b244-ff0c70a1d610",
+    "username": "angrybutterfly930",
+    "password": "chrono",
+    "salt": "q07wfurp",
+    "md5": "6e82dd5708339713ea39b975f21db0b4",
+    "sha1": "efb6b964a7af7e56cef1b3307bd278af1885a4a6",
+    "sha256": "33e1cd4883e6f08b78bbf87a28aa867569cc81202f48e865c017ad4b435c3ff6"
+    },
+    "dob": {
+    "date": "1959-11-24T20:31:03.233Z",
+    "age": 62
+    },
+    "registered": {
+    "date": "2015-06-11T09:54:57.114Z",
+    "age": 7
+    },
+    "phone": "05-51-06-73-10",
+    "cell": "06-80-34-39-91",
+    "id": {
+    "name": "INSEE",
+    "value": "1591006589384 52"
+    },
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/men/81.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
+    },
+    "nat": "FR"
+    }
+    ],
+    "info": {
+    "seed": "7175f29771f95ffb",
+    "results": 5,
+    "page": 1,
+    "version": "1.4"
+    }
+    }
+    
