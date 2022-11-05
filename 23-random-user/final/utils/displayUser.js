@@ -22,4 +22,10 @@ const displayUser = (person) => {
   });
 };
 
+function removeActive(items) {
+  items.forEach((item) => {
+    item.classList.remove('active');
+  });
+}
+
 export default displayUser;

@@ -3,6 +3,7 @@ const URL = 'https://randomuser.me/api/';
 const getUser = async () => {
     const response = await fetch(URL);
     const data = await response.json();
+    console.log(data);
     // destructure
     const person = data.results[0];
     const { phone, email } = person;
@@ -27,3 +28,5 @@ const getUser = async () => {
 };
 
 export default getUser
+
+// const URL = 'https://randomuser.me/api/';
