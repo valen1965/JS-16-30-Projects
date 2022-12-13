@@ -161,6 +161,10 @@ p {
   transform: translate(-50%, -50%);
   text-align: center;
 }
+
+.section-featured{
+  text-align: center;
+}
 .page-loading {
   position: fixed;
   top: 0;
