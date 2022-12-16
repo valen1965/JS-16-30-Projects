@@ -57,7 +57,7 @@
       </div>
     </section>
     <!-- sidebar -->
-    <div class="sidebar-overlay show">
+    <div class="sidebar-overlay">
       <aside class="sidebar" >
         <!-- close btn -->
         <button class="sidebar-close">
@@ -87,7 +87,7 @@
       </aside>
     </div>
     <!-- cart -->
-    <div class="cart-overlay show">
+    <div class="cart-overlay">
       <aside class="cart">
         <button class="cart-close">
           <i class="fas fa-times"></i>
@@ -141,7 +141,17 @@
             <input type="text" class="search-input" placeholder="">
           </form>
           <!-- catergories -->
+          <h4>Company</h4>
+          <article class="companies">
+            <button class="company-btn">all</button>
+            <button class="company-btn">ikea</button>
+          </article>
           <!-- price -->
+          <h4>Price</h4>
+          <form class="price-form">
+            <input type="range" class="price-filter" min="0" value="50" max="100" />
+          </form>
+          <p class="price-value"></p>
         </div>
       </div>
       <!-- products -->
